@@ -1,0 +1,1 @@
+This repository demonstrates a common PHP bug stemming from loose typing and the `is_numeric()` function. The `bug.php` file contains code showcasing the unexpected behavior.  The solution in `bugSolution.php` illustrates how to mitigate this issue using stricter type checking and more robust validation techniques.
